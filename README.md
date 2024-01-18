@@ -11,11 +11,12 @@
 Eu sou Carlos, um cara de 20 anos que resolveu se aventurar nesse mundo magicamente louco da programação e também tenho esse prazer peculiar de passar raiva corrigindo código. 😅
 
 <p align="center">
-  <img src="https://github.com/carlosaraujoi/carlosaraujoi/assets/155587427/97202fb0-379a-45ba-b6b0-8d54a8aef7ab" width="350">
+  <img src="https://github.com/carlosaraujoi/carlosaraujoi/assets/155587427/f0e55ed9-a3d1-417b-8f17-fc761238089b" width="350">
 </p>
 
 
-# Sobre Mim
+# Sobre Mim! 
+
 
 - 🎓 Estudando Pyton e conhecendo a programação;
   
